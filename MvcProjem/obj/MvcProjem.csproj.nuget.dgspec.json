@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\repos\\MvcProjem\\MvcProjem\\MvcProjem.csproj": {}
+    "C:\\Users\\Ahmet.Gokdere\\source\\repos\\Omer\\MvcProjem\\MvcProjem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\repos\\MvcProjem\\MvcProjem\\MvcProjem.csproj": {
+    "C:\\Users\\Ahmet.Gokdere\\source\\repos\\Omer\\MvcProjem\\MvcProjem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\MvcProjem\\MvcProjem\\MvcProjem.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmet.Gokdere\\source\\repos\\Omer\\MvcProjem\\MvcProjem.csproj",
         "projectName": "MvcProjem",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\MvcProjem\\MvcProjem\\MvcProjem.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\MvcProjem\\MvcProjem\\obj\\",
+        "projectPath": "C:\\Users\\Ahmet.Gokdere\\source\\repos\\Omer\\MvcProjem\\MvcProjem.csproj",
+        "packagesPath": "C:\\Users\\Ahmet.Gokdere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmet.Gokdere\\source\\repos\\Omer\\MvcProjem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ahmet.Gokdere\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {}
         },
         "frameworks": {
           "net7.0": {
@@ -62,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
